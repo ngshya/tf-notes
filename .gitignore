@@ -132,4 +132,10 @@ dmypy.json
 *.png
 
 # models save
+model_save
 model.save
+*.h5
+*.hdf5
+
+# logs
+/logs
